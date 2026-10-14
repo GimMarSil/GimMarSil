@@ -35,7 +35,6 @@ For 12+ years I have led the digital transformation of an international engineer
 ## Currently
 
 - Leading IT, enterprise systems and in-house software development for the group.
-- Founder of **[BuildFlow](https://buildflow.pt)** — SaaS software for the construction sector.
 - Exploring agentic workflows and MCP integrations between AI and business systems.
 
 ## Background
