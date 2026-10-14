@@ -1,6 +1,6 @@
 # Hi, I'm Gilberto Marques da Silva
 
-**Director of Information Systems** at M.N. Ramos Ferreira – Engenharia, S.A. · Vila Nova de Gaia, Portugal
+**Director of Information Systems** · Vila Nova de Gaia, Portugal
 *Digital transformation · Process automation · ERP, data & applied AI*
 
 For 12+ years I have led the digital transformation of an international engineering group: about **500 users in 9 countries** and **12 companies on a PHC ERP**. I take a process from problem to production — design the process, model the data, build the solution and put it live — from the database to the web app, the dashboard and the AI agent. With AI-assisted development I deliver in weeks what used to take months, and I turn manual controls into systems that work on their own, 24/7.
