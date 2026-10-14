@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Gilberto Marques da Silva — Director of Information Systems">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1428"/><stop offset="1" stop-color="#13294F"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DE1C2"/><stop offset="1" stop-color="#5B8CFF"/></linearGradient>
+<radialGradient id="glow" cx="0.82" cy="0.25" r="0.55"><stop offset="0" stop-color="#2DE1C2" stop-opacity="0.30"/><stop offset="1" stop-color="#2DE1C2" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/></pattern>
+<clipPath id="r"><rect width="1200" height="320" rx="18"/></clipPath>
+<style>
+.f{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+.p{animation:p 3.2s ease-in-out infinite}
+.d1{animation-delay:.4s}.d2{animation-delay:.9s}.d3{animation-delay:1.4s}.d4{animation-delay:1.9s}.d5{animation-delay:2.4s}
+@keyframes p{0%,100%{opacity:.25}50%{opacity:1}}
+.flow{stroke-dasharray:6 8;animation:fl 2.4s linear infinite}
+@keyframes fl{to{stroke-dashoffset:-56}}
+.in{animation:in 1.2s ease-out both}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+<rect width="1200" height="320" fill="url(#glow)"/>
+<g stroke="#2DE1C2" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+<path class="flow" d="M820 230 L900 150 L990 190 L1070 100 L1140 150"/>
+<path class="flow" d="M900 150 L960 70 L1070 100"/>
+<path class="flow" d="M990 190 L1040 260 L1140 220"/>
+</g>
+<g fill="#2DE1C2">
+<circle class="p" cx="820" cy="230" r="5"/>
+<circle class="p d1" cx="900" cy="150" r="7"/>
+<circle class="p d2" cx="990" cy="190" r="5"/>
+<circle class="p d3" cx="1070" cy="100" r="8"/>
+<circle class="p d4" cx="1140" cy="150" r="5"/>
+<circle class="p d5" cx="960" cy="70" r="5"/>
+<circle class="p d2" cx="1040" cy="260" r="5"/>
+<circle class="p d1" cx="1140" cy="220" r="5"/>
+</g>
+<rect x="64" y="70" width="64" height="4" rx="2" fill="url(#ac)"/>
+<text class="f in" x="62" y="146" font-size="58" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Gilberto Marques da Silva</text>
+<text class="f in" x="64" y="196" font-size="26" font-weight="600" fill="url(#ac)">Director of Information Systems</text>
+<text class="f in" x="64" y="240" font-size="15" font-weight="500" fill="#9FB3D1" letter-spacing="3">DIGITAL TRANSFORMATION  ·  ERP &amp; DATA  ·  APPLIED AI</text>
+<text class="f in" x="64" y="272" font-size="14" fill="#6F86AD">M.N. Ramos Ferreira – Engenharia  ·  Vila Nova de Gaia, Portugal</text>
+</g>
+<rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+</svg>
