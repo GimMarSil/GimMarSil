@@ -6,8 +6,6 @@
 
 <a href="https://www.linkedin.com/in/gilberto-marques-silva"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:gilbertomarsilva@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-12284F?style=for-the-badge&logo=gmail&logoColor=2DE1C2" alt="Email"/></a>
-<a href="https://buildflow.pt"><img src="https://img.shields.io/badge/BuildFlow-SaaS%20for%20construction-12284F?style=for-the-badge&logo=vercel&logoColor=2DE1C2" alt="BuildFlow"/></a>
-
 </div>
 
 <br/>
@@ -97,7 +95,6 @@ Custom **MCP servers** give AI agents controlled access to SQL Server, Microsoft
 ### Now
 
 - Leading IT, enterprise systems and in-house software development at **M.N. Ramos Ferreira – Engenharia**
-- Building **[BuildFlow](https://buildflow.pt)** — SaaS for the construction sector
 - Exploring agentic workflows and MCP integrations between AI and business systems
 
 <details>
